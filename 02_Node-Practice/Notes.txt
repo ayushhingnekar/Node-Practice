@@ -1,0 +1,7 @@
+For writing file  -  fs.writeFileSync(fullName, content)
+
+For readding file -  fs.readFileSync(fullName, "utf-8")
+
+For updating file   fs.appendFileSync(fullName, content)
+
+For deleting file   fs.unLinkSync(fullName)
