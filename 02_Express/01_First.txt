@@ -1,0 +1,8 @@
+app.use() 
+    It is a mulltipurpose method
+    Use to apply middleware
+    Use to apply 404 page
+    Use to load static file
+
+
+app.use(express.static(publicPath))
