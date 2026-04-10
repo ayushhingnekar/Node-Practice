@@ -1,0 +1,33 @@
+A database is a structured collection of data
+That is stored and organized in a way that makes it easy to retrieve, manage and update
+
+
+Types of Database
+
+> Relational Database (RDBMS)
+> NoSQL Database (MongoDB)
+
+
+
+
+What is MongoDB?
+
+- MongoDB is a NoSQL Database
+- It stores data in a flexible (no table format)
+- JSON-like format called BSON (Binary JSON)
+
+
+SQL Terms/Concept                           MongoDB Terms/Concept
+
+    database                                    database
+    tables                                     collection
+    rows                                    documents (BSON)
+    columns                                       fields
+
+
+
+
+
+MongoDB Install Setup
+
+- Go to home brew
